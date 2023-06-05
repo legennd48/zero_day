@@ -1,0 +1,1 @@
+This folder was created according to instructions for the "hello ubuntu" task in the vagrant project as a full-stack software engineering student at ALX 
